@@ -4,13 +4,13 @@ title: "Meerkat"
 description: "Think about!!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "https://twohands2.github.io"
+baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: two_hands@daum.com
+email: two_hands@daum.net
 
 # Authors
 authors:
