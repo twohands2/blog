@@ -2,7 +2,8 @@
 layout: post
 title:  "Much more than a desert: A trip into the Sahara"
 author: john
-categories: [ Travel ]
+categories: [ Sample ]
+tags: [ Sample ]
 image: assets/images/16.jpg
 ---
 
