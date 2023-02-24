@@ -21,3 +21,9 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
 end
+
+
+# .md file > youtube link player
+group :jekyll_plugins do
+    gem "jekyll-youtube"
+end
