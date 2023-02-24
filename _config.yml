@@ -1,10 +1,21 @@
 # Site
-name: "Meerkat"
-title: "Meerkat"
+name: "tw0h4nds"
+title: "tw0h4nds"
 description: "Think about!!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "https://twohands2.github.io"
+# ===============================================================
+# url setting
+# ===============================================================
+# git url
+#baseurl: ""
+#url: "https://twohands2.github.io"
+
+# localhost url
+baseurl: ""
+url: "http://localhost:4000"
+# ===============================================================
+
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

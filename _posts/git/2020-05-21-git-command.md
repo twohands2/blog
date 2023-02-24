@@ -3,7 +3,7 @@ layout: post
 title:  "Git 명령어"
 author: two_hands
 categories: [ Git ]
-tags : [Git]
+tags : [command]
 image: assets/images/m.jpg
 ---
 
