@@ -8,12 +8,12 @@ favicon: 'assets/images/logo.png'
 # url setting
 # ===============================================================
 # git url
-#baseurl: ""
-#url: "https://twohands2.github.io"
+baseurl: ""
+url: "https://twohands2.github.io"
 
 # localhost url
-baseurl: ""
-url: "http://localhost:4000"
+#baseurl: ""
+#url: "http://localhost:4000"
 # ===============================================================
 
 google_analytics: 'UA-xxxxxxxx-1'
@@ -25,6 +25,14 @@ email: two_hands@daum.net
 
 # Authors
 authors:
+  tw0h4nds:
+    name: 양손잡이
+    display_name: 양손잡이
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: two_hands@daum.net
+    web: https://www.wowthemes.net/donate/
+    twitter: https://twitter.com/wowthemesnet
+    description: ".."
   sal:
     name: Sal
     display_name: Sal
